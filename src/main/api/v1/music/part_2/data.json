@@ -1,0 +1,17 @@
+[
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "harry_styles_as_it_was",
+    "music_url": "harry_styles_as_it_was.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "willow_smith_wait_a_minute",
+    "music_url": "willow_smith_wait_a_minute.ogg"
+  }
+]
