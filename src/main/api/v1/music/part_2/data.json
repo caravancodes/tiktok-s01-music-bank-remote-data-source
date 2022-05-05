@@ -13,5 +13,20 @@
     "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
     "music_title": "willow_smith_wait_a_minute",
     "music_url": "willow_smith_wait_a_minute.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "psy_that_that_prod_feat_suga_of_bts",
+    "music_url": "psy_that_that_prod_feat_suga_of_bts.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "suaraku_syairmu_harry",
+    "music_url": "suaraku_syairmu_harry.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_2/",
+    "music_title": "treasure_darari",
+    "music_url": "treasure_darari.ogg"
   }
 ]
