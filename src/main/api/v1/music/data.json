@@ -173,5 +173,45 @@
     "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_3/",
     "music_title": "woman_doja_cat",
     "music_url": "woman_doja_cat.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "joko_tingkir",
+    "music_url": "joko_tingkir.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "juragan_empang",
+    "music_url": "juragan_empang.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "layang_kangen",
+    "music_url": "layang_kangen.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "lentera_lesti_kejora",
+    "music_url": "lentera_lesti_kejora.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "los_dol_denny_caknan",
+    "music_url": "los_dol_denny_caknan.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "ojo_dibandingke",
+    "music_url": "ojo_dibandingke.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "runtah",
+    "music_url": "runtah.ogg"
+  },
+  {
+    "base_url": "/tiktok-s01-music-bank-remote-data-source/src/main/api/v1/music/part_4/",
+    "music_title": "teteg_ati",
+    "music_url": "teteg_ati.ogg"
   }
 ]
